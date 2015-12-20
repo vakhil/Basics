@@ -1,0 +1,193 @@
+﻿<div id="divTabs" style="width: 100%; padding-left: 10%; height: 45px;overflow-x:auto;">
+</div>
+<div id="div_plantname" style="width: 300px;height: 20px;">
+<table><tr>
+<td>Plant Name</td>
+<td>
+<select id="ddl_plants" style="width:200px;" onchange="refreshclick();"></select>
+</td>
+<td><img src="Images/refresh.png" style="cursor:pointer;" onclick="refreshclick();"/></td>
+</tr></table>
+</div>
+<div id="div1" style="width: 300px;height: 10px;">
+</div>
+<div style="width: 100%; height:40%;">
+    <div style="width: 50%; float: left; border: 1px solid black;">
+        <div id="divtripview1" style="width: 100%; height: 300px; position: relative;overflow: auto;">
+            <table>
+                <tr>
+                    <td>
+                        <label>
+                            Trip No:</label>
+                    </td>
+                    <td>
+                        <span id="txtTripNo1" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                        <label>
+                            Vehicle No</label>
+                    </td>
+                    <td>
+                        <span id="txtVehicleNo1" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                    <div id="progressbar1" style="width:400px;"><div id="progressbar1_lbl" class="progress-label"></div></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>
+                            Route Name</label>
+                    </td>
+                    <td>
+                        <span id="txtRouteName1" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                        <label>
+                            Trip Start Time</label>
+                    </td>
+                    <td>
+                        <span id="txtStartTime1" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                </tr>
+            </table>
+            <table id="Table1" border="1" style="width: 100%;height:auto;overflow:auto; float: left; border: 1px solid #d6d6d6;
+                border-radius: 5px 5px 5px 5px; background-color: #FFFFFF">
+            </table>
+        </div>
+    </div>
+    <div style="width: 49%; float: right; border: 1px solid black; ">
+        <div id="divtripview2" style="width: 100%; height: 300px; position: relative;overflow: auto;">
+            <table>
+                <tr>
+                    <td>
+                        <label>
+                            Trip No</label>
+                    </td>
+                    <td>
+                        <span id="txtTripNo2" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                        <label>
+                            Vehicle No</label>
+                    </td>
+                    <td>
+                        <span id="txtVehicleNo2" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                     <td>
+                    <div id="progressbar2" style="width:400px;"><div id="progressbar2_lbl" class="progress-label"></div></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>
+                            Route Name</label>
+                    </td>
+                    <td>
+                        <span id="txtRouteName2" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                        <label>
+                            Trip Start Time</label>
+                    </td>
+                    <td>
+                        <span id="txtStartTime2" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                </tr>
+            </table>
+            <table id="Table2" border="1" style="width: 100%;height:auto;overflow:auto; float: left; border: 1px solid #d6d6d6;
+                border-radius: 5px 5px 5px 5px; background-color: #FFFFFF">
+            </table>
+        </div>
+    </div>
+</div>
+<div style="width: 100%; height:40%;">
+    <div style="width: 50%; float: left; border: 1px solid black;">
+        <div id="divtripview3" style="width: 100%; height: 300px; position: relative; overflow: auto;">
+            <table>
+                <tr>
+                    <td>
+                        <label>
+                            Trip No</label>
+                    </td>
+                    <td>
+                        <span id="txtTripNo3" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                        <label>
+                            Vehicle No</label>
+                    </td>
+                    <td>
+                        <span id="txtVehicleNo3" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                      <td>
+                    <div id="progressbar3" style="width:400px;"><div id="progressbar3_lbl" class="progress-label"></div></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>
+                            Route Name</label>
+                    </td>
+                    <td>
+                        <span id="txtRouteName3" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                        <label>
+                            Trip Start Time</label>
+                    </td>
+                    <td>
+                        <span id="txtStartTime3" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                </tr>
+            </table>
+            <table id="Table3" border="1" style="width: 100%; height:auto; float: left; border: 1px solid #d6d6d6;
+                border-radius: 5px 5px 5px 5px; background-color: #FFFFFF">
+            </table>
+        </div>
+    </div>
+    <div style="width: 49%; float: right; border: 1px solid black;">
+        <div id="divtripview4" style="width: 100%; height: 300px; position: relative;overflow: auto;">
+            <table>
+                <tr>
+                    <td>
+                        <label>
+                            Trip No</label>
+                    </td>
+                    <td>
+                        <span id="txtTripNo4" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                        <label>
+                            Vehicle No</label>
+                    </td>
+                    <td>
+                        <span id="txtVehicleNo4" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                      <td>
+                    <div id="progressbar4" style="width:400px;"><div id="progressbar4_lbl" class="progress-label"></div></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>
+                            Route Name</label>
+                    </td>
+                    <td>
+                        <span id="txtRouteName4" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                    <td>
+                        <label>
+                            Trip Start Time</label>
+                    </td>
+                    <td>
+                        <span id="txtStartTime4" style="font-size: 10px; color: Red;"></span>
+                    </td>
+                </tr>
+            </table>
+            <table id="Table4" border="1" style="width: 100%; height:auto; float: left; border: 1px solid #d6d6d6;
+                border-radius: 5px 5px 5px 5px; background-color: #FFFFFF">
+            </table>
+        </div>
+    </div>
+</div>

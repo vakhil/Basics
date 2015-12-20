@@ -1,0 +1,179 @@
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\bin\Debug\azure testing.exe.config
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\bin\Debug\azure testing.exe
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\bin\Debug\azure testing.pdb
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\obj\Debug\azure testing.csprojResolveAssemblyReference.cache
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\obj\Debug\azure_testing.Form1.resources
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\obj\Debug\azure_testing.Properties.Resources.resources
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\obj\Debug\azure testing.csproj.GenerateResource.Cache
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\obj\Debug\azure testing.exe
+c:\users\sagar\documents\visual studio 2015\Projects\azure testing\azure testing\obj\Debug\azure testing.pdb
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\System.Spatial.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\System.Spatial.xml
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Sagar\Documents\Visual Studio 2015\Projects\azure testing\azure testing\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\azure testing.exe.config
+C:\Users\Nikhil\Desktop\azure testing\azure testing\obj\Debug\azure testing.exe
+C:\Users\Nikhil\Desktop\azure testing\azure testing\obj\Debug\azure testing.pdb
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\azure testing.exe
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\azure testing.pdb
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\System.Spatial.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\System.Spatial.xml
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\azure testing\azure testing\obj\Debug\azure testing.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\azure testing\azure testing\obj\Debug\azure_testing.Form1.resources
+C:\Users\Nikhil\Desktop\azure testing\azure testing\obj\Debug\azure_testing.Properties.Resources.resources
+C:\Users\Nikhil\Desktop\azure testing\azure testing\obj\Debug\azure testing.csproj.GenerateResource.Cache
+C:\Users\Nikhil\Desktop\Source_Code_Important'\azure testing\azure testing\bin\Debug\azure testing.exe.config
+C:\Users\Nikhil\Desktop\Source_Code_Important'\azure testing\azure testing\obj\Debug\azure testing.exe
+C:\Users\Nikhil\Desktop\Source_Code_Important'\azure testing\azure testing\obj\Debug\azure testing.pdb
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\azure testing.exe.config
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\obj\Debug\azure testing.exe
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\obj\Debug\azure testing.pdb
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\azure testing.exe
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\azure testing.pdb
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\System.Spatial.xml
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\obj\Debug\azure testing.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\obj\Debug\azure_testing.Form1.resources
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\obj\Debug\azure_testing.Properties.Resources.resources
+C:\Users\Nikhil\Desktop\Important\azure testing\azure testing\obj\Debug\azure testing.csproj.GenerateResource.Cache
